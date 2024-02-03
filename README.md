@@ -1,16 +1,17 @@
 ```
-___________          .__  _____       
-\__    ___/__________|__|/ ____\__.__. 
+___________          .__  _____
+\__    ___/__________|__|/ ____\__.__.
   |    | /  _ \_  __ \  \   __<   |  |
   |    |(  <_> )  | \/  ||  |  \___  |
   |____| \____/|__|  |__||__|  / ____|
-                               \/  
-  v1.0 - Security007  
+                               \/
+  v1.0 - Security007
   Auto Rotate TOR IP Address
-````
-![Static Badge](https://img.shields.io/badge/Support-Windows%2010/11-blue)
-![Static Badge](https://img.shields.io/badge/Python-3.x.x-blue)
+```
 
+![Static Badge](https://img.shields.io/badge/Support-Windows%2010/11-blue)
+![Static Badge](https://img.shields.io/badge/Support-Linux-green)
+![Static Badge](https://img.shields.io/badge/Python-3.x.x-blue)
 
 ## Installation
 

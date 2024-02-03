@@ -1,18 +1,39 @@
-Jan 15 21:03:33.077 [notice] Tor 0.4.8.10 (git-680415826c5fd786) running on Windows 8 [or later] with Libevent 2.1.12-stable, OpenSSL 3.0.12, Zlib 1.3, Liblzma N/A, Libzstd N/A and Unknown N/A as libc.
-Jan 15 21:03:33.077 [notice] Tor can't help you if you use it wrong! Learn how to be safe at https://support.torproject.org/faq/staying-anonymous/
-Jan 15 21:03:33.101 [notice] Configuration file "C:\Users\REDMIBOOK\AppData\Roaming\tor\torrc" not present, using reasonable defaults.
-Jan 15 21:03:33.102 [warn] Path for GeoIPFile (<default>) is relative and will resolve to C:\Users\REDMIBOOK\Documents\Portfolio\github\torify\<default>. Is this what you wanted?
-Jan 15 21:03:33.103 [warn] Path for GeoIPv6File (<default>) is relative and will resolve to C:\Users\REDMIBOOK\Documents\Portfolio\github\torify\<default>. Is this what you wanted?
-Jan 15 21:03:33.105 [notice] Opening Socks listener on 127.0.0.1:9050
-Jan 15 21:03:33.105 [notice] Opened Socks listener connection (ready) on 127.0.0.1:9050
-Jan 15 21:03:33.000 [notice] Bootstrapped 0% (starting): Starting
-Jan 15 21:03:34.000 [notice] Starting with guard context "default"
-Jan 15 21:03:35.000 [notice] Bootstrapped 5% (conn): Connecting to a relay
-Jan 15 21:03:35.000 [notice] Bootstrapped 10% (conn_done): Connected to a relay
-Jan 15 21:03:35.000 [notice] Bootstrapped 14% (handshake): Handshaking with a relay
-Jan 15 21:03:36.000 [notice] Bootstrapped 15% (handshake_done): Handshake with a relay done
-Jan 15 21:03:36.000 [notice] Bootstrapped 75% (enough_dirinfo): Loaded enough directory info to build circuits
-Jan 15 21:03:36.000 [notice] Bootstrapped 90% (ap_handshake_done): Handshake finished with a relay to build circuits
-Jan 15 21:03:36.000 [notice] Bootstrapped 95% (circuit_create): Establishing a Tor circuit
-Jan 15 21:03:38.000 [notice] Bootstrapped 100% (done): Done
-Jan 15 21:04:33.000 [notice] Interrupt: exiting cleanly.
+Feb 03 15:18:14.444 [notice] Tor 0.4.8.10 running on Linux with Libevent 2.1.12-stable, OpenSSL 3.0.9, Zlib 1.2.13, Liblzma 5.4.1, Libzstd 1.5.5 and Glibc 2.36 as libc.
+Feb 03 15:18:14.444 [notice] Tor can't help you if you use it wrong! Learn how to be safe at https://support.torproject.org/faq/staying-anonymous/
+Feb 03 15:18:14.444 [notice] Read configuration file "/etc/tor/torrc".
+Feb 03 15:18:14.445 [warn] ControlPort is open, but no authentication method has been configured.  This means that any program on your computer can reconfigure your Tor.  That's bad!  You should upgrade your Tor controller as soon as possible.
+Feb 03 15:18:14.445 [notice] Opening Socks listener on 127.0.0.1:9050
+Feb 03 15:18:14.445 [notice] Opened Socks listener connection (ready) on 127.0.0.1:9050
+Feb 03 15:18:14.445 [notice] Opening Control listener on 127.0.0.1:9051
+Feb 03 15:18:14.445 [notice] Opened Control listener connection (ready) on 127.0.0.1:9051
+Feb 03 15:18:14.000 [notice] Parsing GEOIP IPv4 file /usr/share/tor/geoip.
+Feb 03 15:18:14.000 [notice] Parsing GEOIP IPv6 file /usr/share/tor/geoip6.
+Feb 03 15:18:14.000 [notice] Bootstrapped 0% (starting): Starting
+Feb 03 15:18:14.000 [notice] Starting with guard context "default"
+Feb 03 15:18:15.000 [notice] Bootstrapped 5% (conn): Connecting to a relay
+Feb 03 15:18:15.000 [notice] Bootstrapped 10% (conn_done): Connected to a relay
+Feb 03 15:18:16.000 [notice] Bootstrapped 14% (handshake): Handshaking with a relay
+Feb 03 15:18:17.000 [notice] Bootstrapped 15% (handshake_done): Handshake with a relay done
+Feb 03 15:18:17.000 [notice] Bootstrapped 75% (enough_dirinfo): Loaded enough directory info to build circuits
+Feb 03 15:18:17.000 [notice] Bootstrapped 90% (ap_handshake_done): Handshake finished with a relay to build circuits
+Feb 03 15:18:17.000 [notice] Bootstrapped 95% (circuit_create): Establishing a Tor circuit
+Feb 03 15:18:18.000 [notice] Bootstrapped 100% (done): Done
+Feb 03 15:18:30.000 [notice] New control connection opened from 127.0.0.1.
+Feb 03 15:18:56.000 [notice] New control connection opened from 127.0.0.1.
+Feb 03 15:19:11.000 [notice] New control connection opened from 127.0.0.1.
+Feb 03 15:19:31.000 [notice] New control connection opened from 127.0.0.1.
+Feb 03 15:19:45.000 [notice] New control connection opened from 127.0.0.1.
+Feb 03 15:19:57.000 [notice] New control connection opened from 127.0.0.1.
+Feb 03 15:20:13.000 [notice] New control connection opened from 127.0.0.1.
+Feb 03 15:20:26.000 [notice] New control connection opened from 127.0.0.1.
+Feb 03 15:20:40.000 [notice] New control connection opened from 127.0.0.1.
+Feb 03 15:20:52.000 [notice] New control connection opened from 127.0.0.1.
+Feb 03 15:21:06.000 [notice] New control connection opened from 127.0.0.1.
+Feb 03 15:21:18.000 [notice] New control connection opened from 127.0.0.1.
+Feb 03 15:21:31.000 [notice] New control connection opened from 127.0.0.1.
+Feb 03 15:21:48.000 [notice] New control connection opened from 127.0.0.1.
+Feb 03 15:22:00.000 [notice] New control connection opened from 127.0.0.1.
+Feb 03 15:22:12.000 [notice] New control connection opened from 127.0.0.1.
+Feb 03 15:22:25.000 [notice] New control connection opened from 127.0.0.1.
+Feb 03 15:22:38.000 [notice] New control connection opened from 127.0.0.1.
+Feb 03 15:22:44.000 [notice] Interrupt: exiting cleanly.
